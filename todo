@@ -1,5 +1,6 @@
 what can be improved :
 
+- implement kelly formula to the 'position' column in backtest.ipynb ( Module 3.5 OR https://www.fool.com/investing/value/2006/10/31/how-to-calculate-the-kelly-formula.aspx)
 - able to hide the api token
 - trade using VWAP
 - pair trading for currencies with correlation -> 1
