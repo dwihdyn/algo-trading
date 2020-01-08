@@ -1,5 +1,6 @@
 # algo-trading
 <h3>Simple SMA Crossover strategy to MSFT stock</h3>
+<p>click on the file and see the first block for more information</p>
 
 <br/>
 
