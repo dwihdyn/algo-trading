@@ -7,5 +7,4 @@
 <ul>
 <li>analysis.ipynb covers data pulling, cleansing, and evaluating the strategy</li>
 <li>backtest.ipynb covers returns of investment evaluation</li>
-<li>sector.ipynb to see US stock performance on each sector and any experiments i did</li>
 </ul>
